@@ -34,7 +34,6 @@ graph TD
     note8[Coordenador de Suporte: Lidera a equipe de suporte técnico, responsável por resolver problemas operacionais. Garante disponibilidade de serviços e suporte aos usuários finais.]
     note9[Analistas de Dados: Trabalham na análise e integração de dados para apoiar decisões estratégicas e operacionais. Desenvolvem relatórios e dashboards para administração e áreas clínicas.]
     note10[Equipe de Projetos de TI: Executa projetos específicos de TI, como novos sistemas ou upgrades. Utiliza metodologias ágeis ou tradicionais, dependendo da complexidade do projeto.]
-    note2[Conselho de Governança: Define políticas, estratégias e prioridades de TI. Avalia investimentos e assegura conformidade com regulamentações e boas práticas.]
 
     note1 --> note3
     note3 --> note4
@@ -43,5 +42,5 @@ graph TD
     note6 --> note8
     note8 --> note9
     note9 --> note10
-    note10 --> note2
+ 
 
