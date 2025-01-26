@@ -27,5 +27,3 @@ graph TD
     Infraestrutura --> Suporte
     GerenteGovernanca --> Dados
     GerenteGovernanca --> Projetos
-    end
-
