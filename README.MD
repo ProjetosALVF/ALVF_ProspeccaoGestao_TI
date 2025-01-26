@@ -9,11 +9,11 @@ graph TD
     %% Estrutura Organizacional
     DiretorGeral[Diretor Geral do Hospital]
     ConselhoGovernanca[Conselho de Governança de TI]
-    CIO[Diretor de TI -CIO-]
-    GerenteGovernanca[Gerente de Governança de TI]
-    Infraestrutura[Gerente de Segurança da Informação e Infraestrutura de TI]
-    Sistemas[Gerente de Sistemas de Informação]
-    Suporte[Coordenador de Suporte Técnico]
+    CIO[Gerente de TI]
+    GerenteGovernanca[Equipe de Governança de TI]
+    Infraestrutura[Equipe de Segurança da Informação e Infraestrutura de TI]
+    Sistemas[Equipe de Sistemas de Informação]
+    Suporte[Equipe de Suporte Técnico]
     Dados[Analistas de Dados]
     Projetos[Equipe de Projetos de TI]
 
