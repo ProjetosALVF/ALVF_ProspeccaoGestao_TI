@@ -27,6 +27,7 @@ graph TD
     Infraestrutura --> Suporte
     GerenteGovernanca --> Dados
     GerenteGovernanca --> Projetos
+
 ```mermaid
 graph TD
     DiretorGeral[Diretor Geral do Hospital]
