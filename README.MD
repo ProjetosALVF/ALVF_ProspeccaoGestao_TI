@@ -21,7 +21,6 @@ graph TD
     CIO --> Infraestrutura
     CIO --> Sistemas
     Infraestrutura --> Suporte
-    Infraestrutura --> Redes
     GerenteGovernanca --> Dados
     GerenteGovernanca --> Projetos
 
