@@ -37,13 +37,13 @@ graph TD
     note10[Equipe de Projetos: Executa projetos específicos de TI, como novos sistemas ou upgrades. Utiliza metodologias ágeis ou tradicionais, dependendo da complexidade do projeto.]
     note2[Conselho de Governança: Define políticas, estratégias e prioridades de TI. Avalia investimentos e assegura conformidade com regulamentações e boas práticas.]
 
-    note1 -- note3
-    note3 -- note4
-    note4 -- note5
-    note5 -- note6
-    note6 -- note7
-    note7 -- note8
-    note8 -- note9
-    note9 -- note10
-    note10 -- note2
+    note1 --> note3
+    note3 --> note4
+    note4 --> note5
+    note5 --> note6
+    note6 --> note7
+    note7 --> note8
+    note8 --> note9
+    note9 --> note10
+    note10 --> note2
 
