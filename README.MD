@@ -29,7 +29,7 @@ graph TD
     GerenteGovernanca --> Projetos
 
 ```mermaid
-graph TD
+graph TD1
     DiretorGeral[Diretor Geral do Hospital]
     ConselhoGovernanca[Conselho de Governança de TI]
     CIO[Diretor de TI -CIO-]
