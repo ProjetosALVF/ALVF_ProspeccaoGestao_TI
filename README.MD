@@ -22,7 +22,6 @@ graph TD
     CIO --> GerenteGovernanca
     CIO --> Infraestrutura
     CIO --> Sistemas
-    CIO --> Seguranca
     Infraestrutura --> Suporte
     Infraestrutura --> Redes
     GerenteGovernanca --> Dados
