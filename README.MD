@@ -28,7 +28,7 @@ graph TD
     GerenteGovernanca --> Dados
     GerenteGovernanca --> Projetos
 
-graph TD
+
     DiretorGeral[Diretor Geral do Hospital]
     ConselhoGovernanca[Conselho de Governança de TI]
     CIO[Diretor de TI -CIO-]
