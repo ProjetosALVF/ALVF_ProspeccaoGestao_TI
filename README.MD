@@ -26,13 +26,10 @@ graph TD
     Infraestrutura --> Suporte
     GerenteGovernanca --> Dados
     GerenteGovernanca --> Projetos
-
-   end
+    end
 
 ```mermaid
-graph TD1
  %% Descrições
-    subgraph Descrições
         note1[Diretor Geral: Alinha a TI aos objetivos estratégicos do hospital e assegura investimentos alinhados às necessidades institucionais.]
         note2[Conselho de Governança: Define políticas, avalia investimentos e assegura conformidade com regulamentações.]
         note3[CIO: Lidera a estratégia de TI e supervisiona as áreas de infraestrutura, sistemas e segurança.]
