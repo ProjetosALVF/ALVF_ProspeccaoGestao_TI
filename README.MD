@@ -35,7 +35,7 @@ graph TD
     note4[Gerente de Governança: Implementa boas práticas como COBIT e ITIL. Gerencia indicadores de desempenho, compliance e alinhamento estratégico da TI.]
     note5[Gerente de Infraestrutura: Gerencia redes, servidores, equipamentos médicos conectados e data centers. Garante a continuidade operacional e monitora a performance dos serviços de TI.]
     note6[Gerente de Sistemas: Supervisiona sistemas hospitalares como prontuários eletrônicos e ERP. Garante a integração e funcionalidade dos sistemas para atender às demandas do hospital.]
-    note7[Gerente de Segurança: Define políticas e estratégias de proteção de dados sensíveis (LGPD). Monitora e responde a incidentes de segurança, prevenindo ataques cibernéticos.]
+    note7[Gerente de Segurança: Define políticas e estratégias de proteção de dados sensíveis - LGPD. Monitora e responde a incidentes de segurança, prevenindo ataques cibernéticos.]
     note8[Coordenador de Suporte: Lidera a equipe de suporte técnico, responsável por resolver problemas operacionais. Garante disponibilidade de serviços e suporte aos usuários finais.]
     note9[Analistas de Dados: Trabalham na análise e integração de dados para apoiar decisões estratégicas e operacionais. Desenvolvem relatórios e dashboards para administração e áreas clínicas.]
     note10[Equipe de Projetos: Executa projetos específicos de TI, como novos sistemas ou upgrades. Utiliza metodologias ágeis ou tradicionais, dependendo da complexidade do projeto.]
