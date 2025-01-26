@@ -8,7 +8,7 @@ A seguir, apresenta-se a estrutura organizacional para a gestão e governança d
 graph TD
     DiretorGeral[Diretor Geral do Hospital]
     ConselhoGovernanca[Conselho de Governança de TI]
-    CIO[Diretor de TI - CIO -]
+    CIO[Diretor de TI (CIO)]
     GerenteGovernanca[Gerente de Governança de TI]
     Infraestrutura[Gerente de Infraestrutura de TI]
     Sistemas[Gerente de Sistemas de Informação]
@@ -28,19 +28,26 @@ graph TD
     GerenteGovernanca --> Dados
     GerenteGovernanca --> Projetos
 
-    end
-
 
 ```mermaid
- %% Descrições
-        note1[Diretor Geral: Alinha a TI aos objetivos estratégicos do hospital e assegura investimentos alinhados às necessidades institucionais.]
-        note2[Conselho de Governança: Define políticas, avalia investimentos e assegura conformidade com regulamentações.]
-        note3[CIO: Lidera a estratégia de TI e supervisiona as áreas de infraestrutura, sistemas e segurança.]
-        note4[Gerente de Governança: Implementa boas práticas como COBIT e ITIL e gerencia compliance e KPIs.]
-        note5[Gerente de Infraestrutura: Garante redes, servidores e continuidade operacional dos sistemas hospitalares.]
-        note6[Gerente de Sistemas: Supervisiona prontuários eletrônicos e integra sistemas de gestão hospitalar.]
-        note7[Gerente de Segurança: Define políticas de proteção de dados e responde a incidentes de segurança cibernética.]
-        note8[Coordenador de Suporte: Lidera o suporte técnico, resolvendo problemas operacionais dos usuários.]
-        note9[Analistas de Dados: Integram e analisam dados para decisões estratégicas e relatórios gerenciais.]
-        note10[Equipe de Projetos: Gerencia a execução de projetos de TI com metodologias ágeis ou tradicionais.]
-    end
+graph TD
+    note1[Diretor Geral: Alinha a TI aos objetivos estratégicos do hospital e assegura investimentos alinhados às necessidades institucionais.]
+    note2[Conselho de Governança: Define políticas, avalia investimentos e assegura conformidade com regulamentações.]
+    note3[CIO: Lidera a estratégia de TI e supervisiona as áreas de infraestrutura, sistemas e segurança.]
+    note4[Gerente de Governança: Implementa boas práticas como COBIT e ITIL e gerencia compliance e KPIs.]
+    note5[Gerente de Infraestrutura: Garante redes, servidores e continuidade operacional dos sistemas hospitalares.]
+    note6[Gerente de Sistemas: Supervisiona prontuários eletrônicos e integra sistemas de gestão hospitalar.]
+    note7[Gerente de Segurança: Define políticas de proteção de dados e responde a incidentes de segurança cibernética.]
+    note8[Coordenador de Suporte: Lidera o suporte técnico, resolvendo problemas operacionais dos usuários.]
+    note9[Analistas de Dados: Integram e analisam dados para decisões estratégicas e relatórios gerenciais.]
+    note10[Equipe de Projetos: Gerencia a execução de projetos de TI com metodologias ágeis ou tradicionais.]
+
+    note1 --> note2
+    note2 --> note3
+    note3 --> note4
+    note4 --> note5
+    note5 --> note6
+    note6 --> note7
+    note7 --> note8
+    note8 --> note9
+    note9 --> note10
