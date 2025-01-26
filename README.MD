@@ -28,7 +28,6 @@ graph TD
     GerenteGovernanca --> Dados
     GerenteGovernanca --> Projetos
 
-```mermaid
 graph TD
     DiretorGeral[Diretor Geral do Hospital]
     ConselhoGovernanca[Conselho de Governança de TI]
