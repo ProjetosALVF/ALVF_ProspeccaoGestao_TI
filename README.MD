@@ -11,9 +11,8 @@ graph TD
     ConselhoGovernanca[Conselho de Governança de TI]
     CIO[Diretor de TI -CIO-]
     GerenteGovernanca[Gerente de Governança de TI]
-    Infraestrutura[Gerente de Infraestrutura de TI]
+    Infraestrutura[Gerente de Segurança da Informação e Infraestrutura de TI]
     Sistemas[Gerente de Sistemas de Informação]
-    Seguranca[Gerente de Segurança da Informação]
     Suporte[Coordenador de Suporte Técnico]
     Dados[Analistas de Dados]
     Projetos[Equipe de Projetos de TI]
@@ -25,6 +24,7 @@ graph TD
     CIO --> Sistemas
     CIO --> Seguranca
     Infraestrutura --> Suporte
+    Infraestrutura --> Redes
     GerenteGovernanca --> Dados
     GerenteGovernanca --> Projetos
 
