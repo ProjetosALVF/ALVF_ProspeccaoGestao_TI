@@ -1,9 +1,8 @@
 # Proposta de Estrutura Organizacional para Gestão e Governança de TI
 
-### Estrutura Organizacional
+### Estrutura Organizacional para hospital de referência:
 
-A seguir, apresenta-se a estrutura organizacional para a gestão e governança de TI para hospital de referência:
-
+A seguir, apresenta-se a estrutura organizacional para a gestão e governança de TI 
 ```mermaid
 graph TD
     DiretorGeral[Diretor Geral do Hospital]
@@ -28,7 +27,11 @@ graph TD
     GerenteGovernanca --> Dados
     GerenteGovernanca --> Projetos
 
-    %% Descrições
+   end
+
+```mermaid
+graph TD1
+ %% Descrições
     subgraph Descrições
         note1[Diretor Geral: Alinha a TI aos objetivos estratégicos do hospital e assegura investimentos alinhados às necessidades institucionais.]
         note2[Conselho de Governança: Define políticas, avalia investimentos e assegura conformidade com regulamentações.]
