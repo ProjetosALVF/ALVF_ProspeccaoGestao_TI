@@ -8,7 +8,7 @@ A seguir, apresenta-se a estrutura organizacional para a gestão e governança d
 graph TD
     DiretorGeral[Diretor Geral do Hospital]
     ConselhoGovernanca[Conselho de Governança de TI]
-    CIO[Diretor de TI - CIO -]
+    CIO[Diretor de TI -CIO-]
     GerenteGovernanca[Gerente de Governança de TI]
     Infraestrutura[Gerente de Infraestrutura de TI]
     Sistemas[Gerente de Sistemas de Informação]
@@ -28,8 +28,6 @@ graph TD
     GerenteGovernanca --> Dados
     GerenteGovernanca --> Projetos
 
-
-```mermaid
 graph TD
     note1[Diretor Geral: Alinha a TI aos objetivos estratégicos do hospital e assegura investimentos alinhados às necessidades institucionais.]
     note2[Conselho de Governança: Define políticas, avalia investimentos e assegura conformidade com regulamentações.]
