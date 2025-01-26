@@ -29,7 +29,7 @@ graph TD
     GerenteGovernanca --> Projetos
 
     %% Descrições dos Cargos
-    note1[Diretor Geral: Alinha a TI aos objetivos estratégicos do hospital e assegura investimentos alinhados às necessidades institucionais.]
+    note1[Diretor Geral: Responsável pelo alinhamento estratégico da TI com os objetivos gerais do hospital. Garante que os investimentos e políticas de TI estejam conectados às necessidades institucionais.]
     note2[Conselho de Governança: Define políticas, avalia investimentos e assegura conformidade com regulamentações.]
     note3[CIO: Lidera a estratégia de TI e supervisiona as áreas de infraestrutura, sistemas e segurança.]
     note4[Gerente de Governança: Implementa boas práticas como COBIT e ITIL e gerencia compliance e KPIs.]
