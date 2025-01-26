@@ -27,7 +27,7 @@ graph TD
 
     %% Descrições dos Cargos
     note1[Diretor Geral: Neste contexto é responsável pelo alinhamento estratégico da TI com os objetivos gerais do hospital. Garante que os investimentos e políticas de TI estejam conectados às necessidades institucionais.]
-    note3[CIO: Lidera a estratégia de TI no hospital. Supervisiona equipes e promove inovações tecnológicas alinhadas às metas do hospital.]
+    note3[CIO: Lidera a estratégia de TI no hospital. Supervisiona equipes e promove inovações tecnológicas alinhadas às metas do hospital. Implementa políticas, estratégias e prioridades de TI. Supervisiona investimentos e assegura conformidade com regulamentações e boas práticas.]
     note4[Equipe de Governança de TI: Implementa boas práticas como COBIT e ITIL. Gerencia indicadores de desempenho, compliance e alinhamento estratégico da TI.]
     note5[Equipe de Segurança da Informação e Infraestrutura de TI: Gerencia redes, servidores, equipamentos médicos conectados e data centers. Garante a continuidade operacional e monitora a performance dos serviços de TI. Define políticas e estratégias de proteção de dados sensíveis - LGPD. Monitora e responde a incidentes de segurança, prevenindo ataques cibernéticos.]
     note6[Equipe de Sistemas de Informação: Supervisiona sistemas hospitalares como prontuários eletrônicos e ERP. Garante a integração e funcionalidade dos sistemas para atender às demandas do hospital.]
@@ -40,8 +40,7 @@ graph TD
     note3 --> note4
     note4 --> note5
     note5 --> note6
-    note6 --> note7
-    note7 --> note8
+    note6 --> note8
     note8 --> note9
     note9 --> note10
     note10 --> note2
