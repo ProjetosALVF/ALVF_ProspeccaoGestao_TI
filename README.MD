@@ -28,4 +28,4 @@ graph TD
     GerenteGovernanca --> Dados
     GerenteGovernanca --> Projetos
 
-## Estrutura Organizacional para hospital de referência
+# Estrutura Organizacional para hospital de referência
