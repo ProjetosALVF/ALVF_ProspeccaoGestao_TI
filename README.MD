@@ -1,6 +1,6 @@
 # Avaliação de Estrutura Organizacional para Gestão e Governança de TI
 
-## Modelo de Estrutura Organizacional e Descrições dos Cargos
+## Modelo de Estrutura Organizacional
 
 A seguir, apresenta-se a estrutura organizacional para a gestão e governança de TI em um hospital de referência, incluindo as descrições dos cargos:
 
@@ -35,6 +35,8 @@ graph TD
     note10[Equipe de Projetos de TI: Executa projetos específicos de TI, como novos sistemas ou upgrades. Utiliza metodologias ágeis ou tradicionais, dependendo da complexidade do projeto.]
 
 ```
+## Descrições dos Cargos
+
 ```mermaid
 graph TD
     %% Descrições dos Cargos
