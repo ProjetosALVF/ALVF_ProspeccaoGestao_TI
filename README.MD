@@ -37,9 +37,9 @@ graph TD
     note1 --> note3
     note3 --> note4
     note4 --> note5
-    note5 --> note6
-    note6 --> note8
-    note8 --> note9
+    note8 --> note6
+    note6 --> note5
+    note5 --> note9
     note9 --> note10
  
 
