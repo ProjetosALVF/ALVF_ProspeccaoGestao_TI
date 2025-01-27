@@ -28,7 +28,8 @@ graph TD
     note1[Diretor Geral: Neste contexto é responsável pelo alinhamento estratégico da TI com os objetivos gerais do hospital. Garante que os investimentos e políticas de TI estejam conectados às necessidades institucionais.]
     note3[Gerente de TI: Lidera a estratégia de TI no hospital. Supervisiona equipes e promove inovações tecnológicas alinhadas às metas do hospital. Implementa políticas, estratégias e prioridades de TI. Supervisiona investimentos e assegura conformidade com regulamentações e boas práticas.]
     note4[Lider de Governança de TI: Implementa boas práticas como COBIT e ITIL, DevOps. Gerencia indicadores de desempenho, compliance e alinhamento estratégico da TI.]
-    %% Descrições dos Cargos
+
+    %% Descrições demais Cargos
     note5[Equipe de Suporte Técnico: Gerencia redes, servidores, equipamentos médicos conectados e data centers. Garante a continuidade operacional e monitora a performance dos serviços de TI. Define políticas e estratégias de proteção de dados sensíveis - LGPD. Monitora e responde a incidentes de segurança, prevenindo ataques cibernéticos.]
     note6[Lider de Sistemas de Informação: Supervisiona sistemas hospitalares como prontuários eletrônicos e ERP. Garante a integração e funcionalidade dos sistemas para atender às demandas do hospital.]
     note8[Lider de Segurança da Informação e Infraestrutura de TI: Lidera a equipe de suporte técnico, responsável por resolver problemas operacionais. Garante disponibilidade de serviços e suporte aos usuários finais.]
