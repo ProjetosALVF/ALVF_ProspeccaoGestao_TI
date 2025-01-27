@@ -34,9 +34,8 @@ graph TD
     note9[Analistas de Dados: Trabalham na análise e integração de dados para apoiar decisões estratégicas e operacionais. Desenvolvem relatórios e dashboards para administração e áreas clínicas.]
     note10[Equipe de Projetos de TI: Executa projetos específicos de TI, como novos sistemas ou upgrades. Utiliza metodologias ágeis ou tradicionais, dependendo da complexidade do projeto.]
 
-    note1 note3
-    note4 note8
-    note6 note5
-    note9
+    note1 .. note3
+    note4 .. note8
+    note6 .. note5 ..  note9
  
 
