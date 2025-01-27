@@ -2,7 +2,7 @@
 
 ## Modelo de Estrutura Organizacional
 
-A seguir, apresenta-se a estrutura organizacional para a gestão e governança de TI em um hospital de referência, incluindo as descrições dos cargos:
+A seguir, apresenta-se a estrutura organizacional para a gestão e governança de TI em um hospital de referência
 
 ```mermaid
 graph TD
